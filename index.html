@@ -4,17 +4,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>MSEF Launching</title>
-  <link rel="shortcut icon" href="TemplateData/favicon.ico">
+  <title>Affin Hwang Launching</title>
+
   <link rel="stylesheet" href="TemplateData/style.css">
-  <script src="./connection.js"></script>
 </head>
 
 <body>
   <div id="unity-container" class="unity-desktop">
-    <canvas id="unity-canvas" width=960 height=600></canvas>
+    <canvas id="unity-canvas" width=1080 height=1920></canvas>
     <div id="unity-loading-bar">
-      <div id="unity-logo"></div>
+
       <div id="unity-progress-bar-empty">
         <div id="unity-progress-bar-full"></div>
       </div>
@@ -23,7 +22,7 @@
     <div id="unity-footer">
       <div id="unity-webgl-logo"></div>
       <div id="unity-fullscreen-button"></div>
-      <div id="unity-build-title">MSEF Launching</div>
+      <div id="unity-build-title">Affin Hwang Launching</div>
     </div>
   </div>
   <script>
@@ -66,7 +65,7 @@
       codeUrl: buildUrl + "/Build.wasm",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "DefaultCompany",
-      productName: "MSEF Launching",
+      productName: "Affin Hwang Launching",
       productVersion: "0.1",
       showBanner: unityShowBanner,
     };
@@ -93,13 +92,11 @@
 
       canvas.style.width = window.innerWidth + 'px';
       canvas.style.height = window.innerHeight + 'px';
-
-      // unityShowBanner('WebGL builds are not supported on mobile devices.');
     } else {
       // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-      canvas.style.width = "960px";
-      canvas.style.height = "600px";
+      canvas.style.width = "1080px";
+      canvas.style.height = "1920px";
     }
 
     loadingBar.style.display = "block";
