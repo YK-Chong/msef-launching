@@ -1,0 +1,261 @@
+ .u-section-1 {
+  background-image: url("images/adminportalinterface-11.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 994px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 303px 328px 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 4.375em;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 23px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 4.375em;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 23px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 4.375em;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 93px 496px 0 471px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  margin: -24px 471px 60px 619px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 820px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 250px;
+    margin-right: 264px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 3.75em;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 16px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    font-size: 3.75em;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 16px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    font-size: 3.75em;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 71px;
+    margin-right: 396px;
+    margin-left: 371px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 371px;
+    margin-left: 519px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 628px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 195px;
+    margin-right: 190px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 3.125em;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -1px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    font-size: 3.125em;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -8px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    font-size:  3.125em;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+    margin-top: 66px;
+    margin-right: 286px;
+    margin-left: 261px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.125rem;
+    margin-top: -20px;
+    margin-right: 261px;
+    margin-left: 409px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 159px;
+    margin-right: 132px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 2.5em;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -2px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    font-size: 2.5em;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -6px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    font-size: 2.5em;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    margin-top: 72px;
+    margin-right: 196px;
+    margin-left: 171px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin: -18px 171px 40px 319px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 387px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 116px;
+    margin-right: 66px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    font-size: 1.875em;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 5px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    font-size: 1.875em;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-icon-3 {
+    font-size: 1.875em;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.75rem;
+    margin-top: 32px;
+    margin-right: 86px;
+    margin-left: 81px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+    margin: -13px 81px 60px 209px;
+  }
+}
+
+.u-section-1 .u-btn-1,
+.u-section-1 .u-btn-1:before,
+.u-section-1 .u-btn-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1:hover {
+  border-radius: 10px !important;
+  transform: scale(0.96) !important;
+  color: #111111 !important;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1.hover {
+  border-radius: 10px !important;
+  transform: scale(0.96) !important;
+  color: #111111 !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
